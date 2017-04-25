@@ -1,1 +1,1 @@
-B has a cool title
+First line of file B
