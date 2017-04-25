@@ -11,4 +11,4 @@ This text added locally
 * Me again!
 * Me FTW!
 
-Final thoughts...
+Final thoughts. Definitely.
