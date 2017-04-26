@@ -6,4 +6,5 @@ Written by Sébastien Guillon
 ## Contributors
 * Sébastien Guillon
 * Thami
+* Amine
 
