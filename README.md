@@ -12,3 +12,5 @@ This text added locally
 * Me FTW!
 
 Final thoughts. Definitely.
+
+[La doc de Git](https://git-scm.com/docs)
