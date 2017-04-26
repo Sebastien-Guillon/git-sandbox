@@ -1,4 +1,4 @@
-﻿# Git sandbox
+﻿# Git sandbox v2 beta
 A Git learning sandbox
 
 Written by Sébastien Guillon
