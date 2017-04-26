@@ -3,5 +3,7 @@ A Git learning sandbox
 
 Written by Sébastien Guillon
 
-##Contributors
+## Contributors
 * Sébastien Guillon
+* Thami
+
